@@ -17,7 +17,7 @@ public class Arithmetic {
         mul= x * y;
         div= x / y;
     
-    System.out.println("add="+ add + "\n" +"sub =" + sub + "\n" + "mul =" + mul + "\n" + "div =" +div );
+    System.out.println("add="+ add + "\n" + "sub =" + sub + "\n" + "mul =" + mul + "\n" + "div =" +div );
 }
 
 }
